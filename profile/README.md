@@ -1,7 +1,7 @@
 # Chronobiology Lab
 
 ## Overview
-Welcome to the GitHub repository for the research group led by Asst. Prof. Altuğ Didikoğlu We focus on three main domains: developmental chronobiology, sleep epidemiology, and light and visual neuroscience. Our research aims to understand the intricate relationships between sleep, light exposure, and cognition in both humans and animals.
+Welcome to the GitHub repository for the research group led by Asst. Prof. Altuğ Didikoğlu. We focus on three main domains: developmental chronobiology, sleep epidemiology, and light and visual neuroscience. Our research aims to understand the intricate relationships between sleep, light exposure, and cognition in both humans and animals.
 
 ## Domains
 
